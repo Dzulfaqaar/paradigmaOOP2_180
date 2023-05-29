@@ -9,3 +9,9 @@ public:
 	//}
 };
 
+class joko : public sesorang {
+public:
+	void pesan() {
+		cout << "pesan dari joko" << endl;
+	}
+};
