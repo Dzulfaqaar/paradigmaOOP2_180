@@ -5,7 +5,9 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multipewarisan", "multipewarisan\multipewarisan.vcxproj", "{4E18F1A8-E68E-4BBB-BE36-1951C9AAB6A1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiwaris", "multiwaris\multiwaris.vcxproj", "{A0C7C0BA-93C6-4737-B393-6D63CA9DF201}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "problemmultiwaris", "multiwaris\multiwaris.vcxproj", "{A0C7C0BA-93C6-4737-B393-6D63CA9DF201}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "solvemultiwaris", "solvemultiwaris\solvemultiwaris.vcxproj", "{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +33,14 @@ Global
 		{A0C7C0BA-93C6-4737-B393-6D63CA9DF201}.Release|x64.Build.0 = Release|x64
 		{A0C7C0BA-93C6-4737-B393-6D63CA9DF201}.Release|x86.ActiveCfg = Release|Win32
 		{A0C7C0BA-93C6-4737-B393-6D63CA9DF201}.Release|x86.Build.0 = Release|Win32
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Debug|x64.ActiveCfg = Debug|x64
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Debug|x64.Build.0 = Debug|x64
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Debug|x86.ActiveCfg = Debug|Win32
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Debug|x86.Build.0 = Debug|Win32
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Release|x64.ActiveCfg = Release|x64
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Release|x64.Build.0 = Release|x64
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Release|x86.ActiveCfg = Release|Win32
+		{B2960FDD-0616-4890-AAAE-C2E9D8F4B7D3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
